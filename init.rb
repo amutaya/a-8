@@ -3,7 +3,7 @@ require_relative 'snake.rb'
 require_relative 'game.rb'
 
 set background: 'navy'
-# set fps_cap: 15     # this sets the speed of the snake
+set fps_cap: 10      # this sets the speed of the snake
 set title: "Snake Xenzia"     # change window title
 set width: 800
 set height: 600
