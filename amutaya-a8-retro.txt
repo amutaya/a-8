@@ -1,0 +1,14 @@
+Phew, with this assignment I genuinely feel like I have failed. It is by far the worst work I have submitted this semester. I just did 
+not know how to get it right. First, I had a really hard time just coming up with the game I should design. I'm not the most creative
+person out there so even 'remaking' the classic games on moodle seemed very hard. So in the end, I decided to basically create the snake
+game in ruby, because frankly, it was the only 'classic' game I knew. Now I first came across the same program but in python. It was 
+different, but it gave me a better understanding of how I could go about this assignment. Then I watched a youtube tutorial that was in
+ruby. Here's the part where I don't feel like this work is my own, because I basically followed along the video and made really minor edits
+to the code. Because I felt I had not been challenged enough with this part of the assignment, I tried to make the snake move faster
+each time that it ate the food-a task that proved impossible for me. I just could not find enough documentation on how frames per second 
+works in graphics and in particular, how I can increase the speed of a moving object in ruby2d. I was very frustrasted because this part
+took me a really long time, trying different things and it ended up not working either way. After that, I then decided to create a more
+robust documentation of my program which I think went well, except my readme did not have tests for the program. I also tried to build the
+executable of the code, but the last part was not working. It built the `build` folder, but when I actually run the app in the terminal
+nothing happens. Another problem I could not debug. All in all, I am not proud of the work I have submitted here, although I really don't
+know how I could have made it better, if not by building an entirely new game. 
