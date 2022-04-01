@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Snake Xenzia
 
 ![Classic Xenzia](snake.jpeg)
@@ -68,6 +67,4 @@ Minor edits to the program made by Annah N Mutaya
 * [Let's create a snake game in ruby](https://www.youtube.com/watch?v=2UVhYHBT_1o&ab_channel=MarioVisic
 * [Markdown template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 * [Ruby 2D documentation](https://www.ruby2d.com/)
-=======
-# To be edited
->>>>>>> b10c2bf09c0ea41a77f062077d4057cd7f7293de
+
